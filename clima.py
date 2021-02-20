@@ -151,7 +151,7 @@ def climacha():
         archil.close()
 
     def wheatherInfo():
-        api_key = "78d915775a7dcbfaf453861066d284b3"
+        api_key = ""
         path = os.getcwd()
         wheatherInfos = []
         name = "sites.txt"  # Archivo donde se ingresan las paginas a buscar
