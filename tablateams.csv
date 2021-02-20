@@ -1,0 +1,160 @@
+Pos,Name,Number,Rating,Ranking,Height,Weight,Age,Birthday,Exp.,Drafted,Draft Round,Draft Pick,College
+QB,"Matt Ryan
+
+M. Ryan",2,86,#7 QB,"6'5""",220,35,5/17/85,13,2008,1,3,Boston College
+QB,"Matt Schaub
+
+M. Schaub",8,67,#44 QB,"6'6""",240,39,6/25/81,17,2004,3,90,Virginia
+RB,"Todd Gurley
+
+T. Gurley",21,83,#19 RB,"6'1""",222,26,8/3/94,6,2015,1,10,Georgia
+RB,"Ito Smith
+
+I. Smith",25,75,#49 RB,"5'9""",198,25,9/11/95,3,2018,4,126,Southern Miss
+RB,"Brian Hill
+
+B. Hill",23,67,#90 RB,"6'1""",219,25,11/9/95,4,2017,5,156,Wyoming
+RB,"Qadree Ollison
+
+Q. Ollison",30,67,#90 RB,"6'1""",228,24,9/8/96,2,2019,5,152,Pittsburgh
+FB,"Keith Smith
+
+K. Smith",40,67,#7 FB,"6'1""",230,28,4/8/92,7,2014,,,San Jose State
+WR,"Julio Jones
+
+J. Jones",11,96,#4 WR,"6'3""",220,31,2/3/89,10,2011,1,6,Alabama
+WR,"Calvin Ridley
+
+C. Ridley",18,84,#24 WR,"6'0""",189,25,12/20/94,3,2018,1,26,Alabama
+WR,"Laquon Treadwell
+
+L. Treadwell",80,71,#99 WR,"6'2""",221,25,6/14/95,5,2016,1,23,Mississippi
+WR,"Brandon Powell
+
+B. Powell",15,67,#134 WR,"5'8""",186,24,9/12/96,3,2018,,,Florida
+WR,"Russell Gage
+
+R. Gage",83,67,#134 WR,"6'0""",179,24,1/22/96,3,2018,6,194,LSU
+WR,"Christian Blake
+
+C. Blake",13,67,#134 WR,"6'1""",182,24,6/8/96,2,2018,,,Northern Illinois
+TE,"Hayden Hurst
+
+H. Hurst",81,80,#18 TE,"6'4""",250,27,8/24/93,3,2018,1,25,South Carolina
+TE,"Luke Stocker
+
+L. Stocker",88,73,#47 TE,"6'5""",253,32,7/1/88,10,2011,4,104,Tennessee
+TE,"Jaeden Graham
+
+J. Graham",87,67,#79 TE,"6'4""",230,25,10/10/95,2,2018,,,Yale
+C,"Alex Mack
+
+A. Mack",51,86,#4 C,"6'4""",311,35,11/19/85,12,2009,1,21,California
+C,"Matt Hennessy
+
+M. Hennessy",61,67,#24 C,"6'4""",307,23,11/17/97,0,2020,3,78,Temple
+OG,"James Carpenter
+
+J. Carpenter",77,72,#31 OG,"6'4""",321,31,3/22/89,10,2011,1,25,Alabama
+OG,"Chris Lindstrom
+
+C. Lindstrom",63,67,#45 OG,"6'4""",308,23,2/8/97,2,2019,1,14,Boston College
+OG,"Matt Gono
+
+M. Gono",73,67,#45 OG,"6'4""",305,24,5/10/96,3,2018,,,Wesley
+OG,"Justin McCray
+
+J. McCray",65,67,#45 OG,"6'3""",310,28,5/31/92,4,2014,,,Central Florida
+OT,"Jake Matthews
+
+J. Matthews",70,76,#21 OT,"6'5""",308,28,2/11/92,7,2014,1,6,Texas A&M
+OT,"Kaleb McGary
+
+K. McGary",76,69,#46 OT,"6'7""",317,25,2/22/95,2,2019,1,31,Washington
+OT,"John Wetzel
+
+J. Wetzel",75,67,#61 OT,"6'7""",315,29,7/18/91,5,2013,,,Boston College
+DT,"Grady Jarrett
+
+G. Jarrett",97,88,#5 DT,"6'1""",304,27,4/28/93,6,2015,5,137,Clemson
+DT,"Tyeler Davison
+
+T. Davison",96,80,#14 DT,"6'2""",316,28,9/23/92,6,2015,5,154,Fresno State
+DT,"Deadrin Senat
+
+D. Senat",94,70,#47 DT,"6'0""",314,26,7/22/94,3,2018,3,90,South Florida
+DE,"Dante Fowler Jr
+
+D. F. Jr",56,80,#27 DE,"6'3""",261,26,8/3/94,6,2015,1,3,Florida
+DE,"Allen Bailey
+
+A. Bailey",93,77,#34 DE,"6'3""",288,31,3/25/89,10,2011,3,86,Miami
+DE,"Steven Means
+
+S. Means",55,67,#88 DE,"6'3""",250,31,12/5/89,6,2013,5,147,Buffalo
+DE,"Marlon Davidson
+
+M. Davidson",90,67,#88 DE,"6'3""",303,22,5/11/98,0,2020,2,47,Auburn
+DE,"John Cominsky
+
+J. Cominsky",50,67,#88 DE,"6'5""",286,25,11/22/95,2,2019,4,135,Charleston (WV)
+DE,"Jacob Tuioti-Mariner
+
+J. Tuioti-Mariner",91,67,#88 DE,"6'3""",266,24,7/25/96,2,2018,,,UCLA
+LB,"Deion Jones
+
+D. Jones",45,87,#7 LB,"6'1""",222,26,11/4/94,5,2016,2,52,LSU
+LB,"Foyesade Oluokun
+
+F. Oluokun",54,70,#91 LB,"6'2""",229,25,8/2/95,3,2018,6,200,Yale
+LB,"Charles Harris
+
+C. Harris",92,67,#121 LB,"6'3""",253,25,3/6/95,4,2017,1,22,Missouri
+LB,"LaRoy Reynolds
+
+L. Reynolds",59,67,#121 LB,"6'1""",243,30,11/3/90,8,2013,,,Virginia
+LB,"Edmond Robinson
+
+E. Robinson",46,67,#121 LB,"6'3""",245,28,2/23/92,3,2015,7,232,Newberry
+LB,"Mykal Walker
+
+M. Walker",43,67,#121 LB,"6'3""",230,23,8/28/97,0,2020,4,119,Fresno State
+CB,"Ricardo Allen
+
+R. Allen",37,79,#39 CB,"5'9""",187,28,12/18/91,6,2014,5,147,Purdue
+CB,"Darqueze Dennard
+
+D. Dennard",34,77,#53 CB,"5'11""",199,29,10/10/91,6,2014,1,24,Michigan State
+CB,"Kendall Sheffield
+
+K. Sheffield",20,75,#64 CB,"5'11""",193,24,5/30/96,2,2019,4,111,Ohio State
+CB,"Isaiah Oliver
+
+I. Oliver",26,73,#79 CB,"6'0""",201,24,9/30/96,3,2018,2,58,Colorado
+CB,"A.J. Terrell
+
+A. Terrell",24,73,#79 CB,"6'1""",195,22,9/23/98,0,2020,1,16,Clemson
+CB,"Tyler Hall
+
+T. Hall",44,67,#125 CB,"5'8""",186,22,10/31/98,0,2020,,,Wyoming
+CB,"Blidi Wreh-Wilson
+
+B. Wreh-Wilson",33,67,#125 CB,"6'1""",195,31,12/5/89,8,2013,3,70,Connecticut
+SS,"Keanu Neal
+
+K. Neal",22,81,#8 SS,"6'0""",211,25,7/26/95,5,2016,1,17,Florida
+SS,"Sharrod Neasman-Glover
+
+S. Neasman-Glover",41,67,#40 SS,"5'11""",213,29,10/14/91,5,2016,,,Florida Atlantic
+SS,"Jaylinn Hawkins
+
+J. Hawkins",32,67,#40 SS,"6'1""",208,23,8/25/97,0,2020,4,134,California
+LS,"Josh Harris
+
+J. Harris",47,,,"6'1""",224,31,4/27/89,9,2012,,,Auburn
+P,"Sterling Hofrichter
+
+S. Hofrichter",4,67,#24 P,"5'10""",199,24,12/5/96,0,2020,7,228,Syracuse
+PK,"Younghoe Koo
+
+Y. Koo",7,67,#30 PK,"5'10""",190,26,8/3/94,2,2017,,,Georgia Southern
